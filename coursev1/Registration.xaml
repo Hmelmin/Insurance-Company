@@ -1,0 +1,20 @@
+﻿<Window x:Class="coursev1.Registration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Registration" Height="300" Width="300">
+    <Grid>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,36,0,0" Name="login" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,82,0,0" Name="password" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="146,36,0,0" Name="lastname" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="146,82,0,0" Name="name" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="146,130,0,0" Name="phone" VerticalAlignment="Top" Width="120" />
+        <DatePicker Height="25" HorizontalAlignment="Left" Margin="146,179,0,0" Name="birth" VerticalAlignment="Top" Width="120" />
+        <Button Content="Add new client" Height="26" HorizontalAlignment="Left" Margin="71,223,0,0" Name="button1" VerticalAlignment="Top" Width="128" Click="button1_Click" />
+        <Label Content="Login" Height="27" HorizontalAlignment="Left" Margin="12,12,0,0" Name="label1" VerticalAlignment="Top" Width="58" />
+        <Label Content="Password" Height="28" HorizontalAlignment="Left" Margin="12,57,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="surname" Height="28" HorizontalAlignment="Left" Margin="146,12,0,0" Name="label3" VerticalAlignment="Top" Width="75" />
+        <Label Content="name" Height="28" HorizontalAlignment="Left" Margin="146,62,0,0" Name="label4" VerticalAlignment="Top" Width="53" />
+        <Label Content="phone" Height="28" HorizontalAlignment="Left" Margin="146,111,0,0" Name="label5" VerticalAlignment="Top" />
+        <Label Content="Birth" Height="28" HorizontalAlignment="Left" Margin="146,159,0,0" Name="label6" VerticalAlignment="Top" />
+    </Grid>
+</Window>

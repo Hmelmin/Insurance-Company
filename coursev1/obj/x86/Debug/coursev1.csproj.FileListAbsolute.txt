@@ -1,0 +1,117 @@
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\bin\Debug\coursev1.exe
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\bin\Debug\coursev1.pdb
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\Registration.baml
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\user_interface\MediatorWindow.baml
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\user_interface\AnalystWindow.baml
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\user_interface\ClientWindow.baml
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\user_interface\FinancialWindow.baml
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\MainWindow.baml
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\user_interface\NewInsurance.baml
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\Registration.g.cs
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\user_interface\MediatorWindow.g.cs
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\user_interface\AnalystWindow.g.cs
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\user_interface\ClientWindow.g.cs
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\user_interface\FinancialWindow.g.cs
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\user_interface\NewInsurance.g.cs
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\App.g.cs
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\coursev1_MarkupCompile.cache
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\coursev1.g.resources
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\coursev1.Properties.Resources.resources
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\coursev1.csproj.GenerateResource.Cache
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\coursev1.exe
+C:\Users\Hmelmin\Documents\Visual Studio 2010\Projects\coursev1\coursev1\obj\x86\Debug\coursev1.pdb
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\coursev1.exe
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\coursev1.pdb
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\bin\Debug\coursev1.exe
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\bin\Debug\coursev1.pdb
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\coursev1.csprojResolveAssemblyReference.cache
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\Registration.baml
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\user_interface\MediatorWindow.baml
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\user_interface\AnalystWindow.baml
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\user_interface\ClientWindow.baml
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\user_interface\FinancialWindow.baml
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\MainWindow.baml
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\user_interface\NewInsurance.baml
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\Registration.g.cs
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\user_interface\MediatorWindow.g.cs
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\user_interface\AnalystWindow.g.cs
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\user_interface\ClientWindow.g.cs
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\user_interface\FinancialWindow.g.cs
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\user_interface\NewInsurance.g.cs
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\App.g.cs
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\coursev1_MarkupCompile.cache
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\coursev1.g.resources
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\coursev1.Properties.Resources.resources
+C:\Users\Hmelmin\Desktop\coursev1\coursev1\obj\x86\Debug\coursev1.csproj.GenerateResource.Cache
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\coursev1.exe
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\coursev1.pdb
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\bin\Debug\coursev1.exe
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\bin\Debug\coursev1.pdb
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\Registration.baml
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\user_interface\MediatorWindow.baml
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\user_interface\AnalystWindow.baml
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\user_interface\ClientWindow.baml
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\user_interface\FinancialWindow.baml
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\MainWindow.baml
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\user_interface\NewInsurance.baml
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\Registration.g.cs
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\user_interface\MediatorWindow.g.cs
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\user_interface\AnalystWindow.g.cs
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\user_interface\ClientWindow.g.cs
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\user_interface\FinancialWindow.g.cs
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\user_interface\NewInsurance.g.cs
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\App.g.cs
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\coursev1_MarkupCompile.cache
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\coursev1.g.resources
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\coursev1.Properties.Resources.resources
+C:\Users\Hmelmin\Desktop\coursevna1\coursev1\obj\x86\Debug\coursev1.csproj.GenerateResource.Cache
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\coursev1.exe
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\coursev1.pdb
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\bin\Debug\coursev1.exe
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\bin\Debug\coursev1.pdb
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\Registration.baml
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\user_interface\MediatorWindow.baml
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\user_interface\AnalystWindow.baml
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\user_interface\ClientWindow.baml
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\user_interface\FinancialWindow.baml
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\MainWindow.baml
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\user_interface\NewInsurance.baml
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\Registration.g.cs
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\user_interface\MediatorWindow.g.cs
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\user_interface\AnalystWindow.g.cs
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\user_interface\ClientWindow.g.cs
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\user_interface\FinancialWindow.g.cs
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\user_interface\NewInsurance.g.cs
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\App.g.cs
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\coursev1_MarkupCompile.cache
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\coursev1.g.resources
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\coursev1.Properties.Resources.resources
+C:\Users\Hmelmin\Desktop\Хмеловський КР проект\coursev1\obj\x86\Debug\coursev1.csproj.GenerateResource.Cache
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\coursev1.exe
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\coursev1.pdb
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\bin\Debug\coursev1.exe
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\bin\Debug\coursev1.pdb
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\coursev1.csprojResolveAssemblyReference.cache
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\Registration.baml
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\user_interface\MediatorWindow.baml
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\user_interface\AnalystWindow.baml
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\user_interface\ClientWindow.baml
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\user_interface\FinancialWindow.baml
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\MainWindow.baml
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\user_interface\NewInsurance.baml
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\Registration.g.cs
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\user_interface\MediatorWindow.g.cs
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\user_interface\AnalystWindow.g.cs
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\user_interface\ClientWindow.g.cs
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\user_interface\FinancialWindow.g.cs
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\user_interface\NewInsurance.g.cs
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\App.g.cs
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\coursev1_MarkupCompile.cache
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\coursev1.g.resources
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\coursev1.Properties.Resources.resources
+C:\Users\Hmelmin\Desktop\khmelovsky course2 project\coursev1\obj\x86\Debug\coursev1.csproj.GenerateResource.Cache

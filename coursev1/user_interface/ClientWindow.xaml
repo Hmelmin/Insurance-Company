@@ -1,0 +1,28 @@
+﻿<Window x:Class="coursev1.ClientWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ClientWindow" Height="350" Width="525">
+    <Grid>
+        <ListBox Height="72" HorizontalAlignment="Left" Name="listBox1" DataContext="{Binding ElementName = insurances, Path= SelectedItem}" VerticalAlignment="Top" Width="186" Margin="12,28,0,0" />
+        <Label Content="Insurances" Height="28" HorizontalAlignment="Left" Margin="12,0,0,0" Name="label1" VerticalAlignment="Top" />
+        <TextBlock Height="28" HorizontalAlignment="Left" Margin="292,12,0,0" Name="status" Text="" Background="AntiqueWhite" VerticalAlignment="Top" Width="199" />
+        <Label Content="status" Height="28" HorizontalAlignment="Left" Margin="241,12,0,0" Name="label2" VerticalAlignment="Top" Width="66" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="292,51,0,0" Name="ballance" Text="" Background="AntiqueWhite" VerticalAlignment="Top" Width="62" />
+        <Label Content="ballance" Height="23" HorizontalAlignment="Left" Margin="236,51,0,0" Name="label3" VerticalAlignment="Top" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="422,51,0,0" Name="mounthly" Background="AntiqueWhite" VerticalAlignment="Top" Width="69" />
+        <Label Content="monthly" Height="25" HorizontalAlignment="Left" Margin="360,49,0,0" Name="label4" VerticalAlignment="Top" />
+        <Button Content="pay" Height="23" HorizontalAlignment="Left" Margin="292,95,0,0" Name="pay" VerticalAlignment="Top" Width="75" Click="pay_Click" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="422,96,0,0" Name="amount" VerticalAlignment="Top" Width="69"  />
+        <Label Content="amount" Height="23" HorizontalAlignment="Left" Margin="374,95,0,0" Name="label5" VerticalAlignment="Top" Width="53" />
+        <TextBlock Height="70" HorizontalAlignment="Left" Margin="292,125,0,0" Name="description" Background="AntiqueWhite" Text="" VerticalAlignment="Top" Width="199" TextWrapping="Wrap" />
+        <Label Content="description" Height="28" HorizontalAlignment="Left" Margin="222,125,0,0" Name="label6" VerticalAlignment="Top" />
+        <TextBlock Height="85" HorizontalAlignment="Left" Margin="292,214,0,0" Name="message_out" Background="AntiqueWhite" Text="" VerticalAlignment="Top" Width="199" TextWrapping="Wrap" />
+        <Label Content="message" Height="28" HorizontalAlignment="Left" Margin="233,214,0,0" Name="label7" VerticalAlignment="Top" Width="53" />
+        <TextBox Height="103" HorizontalAlignment="Left" Margin="8,159,0,0" Name="message_in" VerticalAlignment="Top" Width="190" TextWrapping="Wrap" />
+        <Label Content="Write your message to company" Height="28" HorizontalAlignment="Left" Margin="0,135,0,0" Name="label8" VerticalAlignment="Top" Width="260" />
+        <Button Content="ask for payment" Height="23" HorizontalAlignment="Left" Margin="52,276,0,0" Name="request" VerticalAlignment="Top" Width="93" Click="request_Click" />
+        <Button Content="Show Details" Height="23" HorizontalAlignment="Left" Margin="12,106,0,0" Name="details" VerticalAlignment="Top" Width="75" Click="details_Click" />
+        <Button Content="Cancel" Height="23" HorizontalAlignment="Left" Margin="102,106,0,0" Name="cancel" VerticalAlignment="Top" Width="75" Click="cancel_Click" />
+        <Button Content="New insurance" Height="24" HorizontalAlignment="Left" Margin="170,275,0,0" Name="create_new" VerticalAlignment="Top" Width="106" Click="create_new_Click" />
+    </Grid>
+</Window>
